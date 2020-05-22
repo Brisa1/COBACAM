@@ -1,0 +1,86 @@
+*{
+	margin:0;
+}
+
+body{
+	background-color: #F2F2F2;
+}
+
+#cabecera{
+	color:#ff9;
+	background-color: #006e6f;
+	padding: 2px
+}
+
+h1{
+	color: #fff ;
+	text-align: center;
+	font-size: 80px;
+	font-family: Arial;
+}
+
+h2{
+		color: #fff;
+	text-align: center;
+	font-size: 30px;
+	font-family: helvetica;
+}
+#menu{
+ margin:0px;
+ width: 100%;
+ background-color: #a6ce39;
+}
+
+#menu ul{
+	list-style: none;
+	margin:0;
+	padding:0px;
+	
+}
+
+
+#menu ul a{
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	font-weight: 200;
+	font-size: 15px;
+	padding: 20px;
+	width: 20%;
+	text-transform: uppercase;
+
+
+}
+
+#menu ul li {
+	position: relative;
+	display: inline-block;
+
+}
+
+#piepag{
+	 margin:0px;
+	 width: 100%;
+ 	background-color:#a6ce39 ;
+}
+
+#piepag footer{
+	color:black;
+	font-size:12px;
+}
+#piepag ul {
+	text-decoration: none;
+	color:black ;
+	list-style: none;
+	font-size: 10px;
+    
+}
+
+#tigre img{
+	width: 100%;
+	margin: 0px;
+}
+
+.his h2 {
+	color: black;
+}

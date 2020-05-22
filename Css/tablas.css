@@ -1,0 +1,15 @@
+table, th, td {
+	border-collapse: separate;
+	border: 1px solid black;
+
+}
+
+#tablita table{
+	float: none;
+	position: center;
+
+}
+
+table {
+	width: 20%;
+}
