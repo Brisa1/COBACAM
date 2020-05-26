@@ -11,5 +11,16 @@ table, th, td {
 }
 
 table {
-	width: 20%;
+margin: 0 25% ;
+}
+
+#contenido h2 {
+	color: black;
+	text-align: left;
+
+}
+
+
+#contenido{
+	margin: 0 5%;
 }
